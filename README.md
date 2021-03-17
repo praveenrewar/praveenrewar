@@ -1,16 +1,35 @@
-### Hi there 👋
+<h2>नमस्ते (Namaste)🙏🏻, I'm Praveen Rewar! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Senior Software Engineer at <a href="http://www.chefling.com">Chefling Inc</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<!--
-**praveenrewar/praveenrewar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin: praveen](https://img.shields.io/badge/-praveen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/praveenrewar/)](https://www.linkedin.com/in/praveenrewar/)
+![GitHub followers](https://img.shields.io/github/followers/praveen-chefling?label=Follow&style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=praveenrewar.praveenrewar)
 
-Here are some ideas to get you started:
+📈 My GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=praveen-chefling&count_private=true&show_icons=true&include_all_commits=true&theme=dark&show_owner=true)](https://github.com/praveen-chefling/github-readme-stats)
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const praveen = {
+    pronouns: "He" | "Him",
+    code: ["Go", "Python", "Javascript"],
+    askMeAbout: ["backend", "tech", "architecture", "photography"],
+    technologies: {
+        backEnd: {
+            go: ["gin", "goroutines", "channels"],
+            python: ["flask"]
+        },
+        devOps: ["AWS", "Docker🐳", "Kubernetes"],
+        databases: ["mongo", "MySql", "redis"],
+        misc: ["Kafka", "design patterns", "unit testing", "scraping"]
+    },
+    architecture: ["Microservice Architecture", "Event driven Architecture"],
+    currentFocus: "Writing maintainable code",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
