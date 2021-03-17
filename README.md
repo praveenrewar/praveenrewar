@@ -9,7 +9,7 @@
 
 📈 My GitHub Stats
 
-[![Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=praveenrewar&count_private=true&show_icons=true&include_all_commits=true&theme=dark&show_owner=true)](https://github.com/praveenrewar/github-readme-stats)
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=praveenrewar&count_private=true&show_icons=true&theme=gotham" alt="praveenrewar" />
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
