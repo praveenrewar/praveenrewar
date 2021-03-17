@@ -4,12 +4,12 @@
 </em></p>
 
 [![Linkedin: praveen](https://img.shields.io/badge/-praveen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/praveenrewar/)](https://www.linkedin.com/in/praveenrewar/)
-![GitHub followers](https://img.shields.io/github/followers/praveen-chefling?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/praveenrewar?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=praveenrewar.praveenrewar)
 
 📈 My GitHub Stats
 
-[![Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=praveen-chefling&count_private=true&show_icons=true&include_all_commits=true&theme=dark&show_owner=true)](https://github.com/praveen-chefling/github-readme-stats)
+[![Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=praveenrewar&count_private=true&show_icons=true&include_all_commits=true&theme=dark&show_owner=true)](https://github.com/praveenrewar/github-readme-stats)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
