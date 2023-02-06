@@ -1,5 +1,5 @@
 <h2>नमस्ते (Namaste)🙏🏻, I'm Praveen Rewar! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<p><em>Member of Technical Staff at <a href="https://www.vmware.com/">VMware, Inc</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Senior Member of Technical Staff at <a href="https://www.vmware.com/">VMware, Inc</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: praveen](https://img.shields.io/badge/-praveen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/praveenrewar/)](https://www.linkedin.com/in/praveenrewar/)
